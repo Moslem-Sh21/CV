@@ -1,1 +1,3 @@
-# CV
+# About
+I'm a Ph.D. candidate at Queen's University focused on making AI fairer and more interpretable, particularly in generative image models. My research dives into tackles challenging problems like continual learning and machine unlearning and responsible AI.
+Beyond research, I love bridging theory and practice. I build real-world vision systems using PyTorch and OpenCV, deploy solutions on edge devices, and consult with industry to translate complex AI concepts into practical applications. What drives me is creating AI that doesn't just push boundaries but genuinely solves problems that matter to people.
